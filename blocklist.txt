@@ -5,6 +5,22 @@
 ||*wixapps.net
 ||*wixdns.net
 ||*parastorage.com
+!IPO and acquisitions
+!On 5 November 2013, Wix had an initial public offering on NASDAQ, raising about US$127 million for the company and some share holders.[20]
+
+!In April 2014, Wix announced the acquisition of Appixia, an Israeli startup for creating native mobile commerce (mCommerce) apps. In October 2014, Wix announced its acquisition of OpenRest, a developer of online ordering systems for restaurants.[21][22][23]
+
+!In April 2015, Wix acquired Moment.me, a mobile website builder for events and marketing tools for social lead generation.[24]
+
+!On 23 February 2017, Wix acquired the online art community DeviantArt for US$36 million.[25]
+
+!In January 2017, the company acquired Flok, a provider of customer loyalty programs tools.[26]
+
+!In February 2020, Wix acquired Inkfrog for eBay sellers, a web design company that provides customized business management software for eBay sellers.[27][28]
+
+!On 2 March 2021, Wix acquired SpeedETab,[29] a Miami-based restaurant online technology provider.
+
+!In May 2021, Wix acquired Rise.ai,[30] a gift card and customer re-engagement package for online brands. A month later, Wix acquired Modalyst,[31] a marketplace and drop-shipping platform.
 
 ||185.230.60.0
 ||185.230.60.1
