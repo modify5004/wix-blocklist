@@ -1,7 +1,8 @@
 ||*wix.com
 ||*wixsite.com
 ||*wixstatic.com
-
+||*wix-code.com
+||*wixapps.net
 
 
 ||185.230.60.0
