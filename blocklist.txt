@@ -3,7 +3,8 @@
 ||*wixstatic.com
 ||*wix-code.com
 ||*wixapps.net
-
+||*wixdns.net
+||*parastorage.com
 
 ||185.230.60.0
 ||185.230.60.1
